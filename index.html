@@ -1,0 +1,56 @@
+<html>
+    <head>
+      <title>WebScraping</title>
+      <link rel="stylesheet" href="Styles.css">
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    </head>
+
+    <style>
+        .tabel1{
+            font-family: sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+            margin-top: 50px;
+        }
+
+        table {
+            font-weight: normal;
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 8px 20px;
+            text-align: center;
+        }
+
+        tr:nth-child(even) {
+            background-color: pink;
+        }
+
+
+    </style>
+
+    <body>
+          <div id="hasilscraping_json"></div>
+        </body>
+        <script type="text/javascript">
+          $(function () {
+            //mengambil data dari file json
+            $.get("hasilscraping.json", function (obj) {
+              var str = "<table border=1>";
+              str +=
+                "<tr><td>No</td><td class='tables'>Image<td class='tables'>Score</td><td class='tables'>Title</td><td class='tables'>Release</td><td class='tables'>Waktu Scrapping</tr>";
+              $.each(obj, function (n, data) {
+                str += "<td class='tables'>" + data.No + "</td>";
+                str += '<td><img src="' + data.Image + '"></td>';
+                str += "<td class='tables'>" + data.Skor + "</td>";
+                str += "<td class='tables'>" + data.Judul + "</td>";
+                str += "<td class='tables'>" + data.Rilis + "</td>";
+                str += "<td class='tables'>" + data.waktu_scraping + "</td></tr>";
+              });
+              str += "</table>";
+              $("#hasilscraping_json").html(str);
+        });
+    });
+    </script>
+</html>

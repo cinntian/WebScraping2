@@ -1,0 +1,802 @@
+[
+      {
+            "No": "1.",
+            "Skor": "100",
+            "Judul": "The Godfather",
+            "Rilis": "March 24, 1972 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/3/47c2b1f35087fc23c5ce261bbc3ad9e0-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "2.",
+            "Skor": "100",
+            "Judul": "Citizen Kane",
+            "Rilis": "September 4, 1941 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/5/1c4da52a6f2335836a21271ec4a6f6b3-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "3.",
+            "Skor": "100",
+            "Judul": "Rear Window",
+            "Rilis": "September 1, 1954 | TV-G",
+            "Image": "https://static.metacritic.com/images/products/movies/9/0d63e9ade174d351943b09982a5022fe-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "4.",
+            "Skor": "100",
+            "Judul": "Casablanca",
+            "Rilis": "January 23, 1943 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/3/2e9475e10998b61bf8a18fd38436a30e-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "5.",
+            "Skor": "100",
+            "Judul": "Boyhood",
+            "Rilis": "July 11, 2014 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/6/e418f13ee37a8e9c864e60c512699d65-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "6.",
+            "Skor": "100",
+            "Judul": "Three Colors: Red",
+            "Rilis": "November 23, 1994 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/7/cb3524a14b6375d42934270defe3aaca-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "7.",
+            "Skor": "100",
+            "Judul": "Vertigo",
+            "Rilis": "May 28, 1958 | PG",
+            "Image": "https://static.metacritic.com/images/products/movies/5/c6848f47fbf9db70bfbcba21d48c969f-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "8.",
+            "Skor": "100",
+            "Judul": "Notorious",
+            "Rilis": "September 6, 1946 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/6/8cadf0ae5f802a9dd798367af49e1637-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "9.",
+            "Skor": "99",
+            "Judul": "Singin' in the Rain",
+            "Rilis": "April 11, 1952 | G",
+            "Image": "https://static.metacritic.com/images/products/movies/9/a82c621c24693dd1a9787b508cdf311d-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "10.",
+            "Skor": "99",
+            "Judul": "City Lights",
+            "Rilis": "March 7, 1931 | Passed",
+            "Image": "https://static.metacritic.com/images/products/movies/5/c715885f7f4cce709d2d5136a3801beb-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "11.",
+            "Skor": "99",
+            "Judul": "Moonlight",
+            "Rilis": "October 21, 2016 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/1/4dd5f999a98b592d830105797a96f03f-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "12.",
+            "Skor": "99",
+            "Judul": "Intolerance",
+            "Rilis": "September 5, 1916 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/5/27fdc2a71b8c8f933dc7fd750e0a9cf2-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "13.",
+            "Skor": "99",
+            "Judul": "Pinocchio",
+            "Rilis": "February 23, 1940 | Passed",
+            "Image": "https://static.metacritic.com/images/products/movies/2/cc1ed146d2f7096679a6eca9c9e49b70-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "14.",
+            "Skor": "99",
+            "Judul": "Touch of Evil",
+            "Rilis": "February 1, 1958 | PG-13",
+            "Image": "https://static.metacritic.com/images/products/movies/4/3c0a1271548af503f635d787eb0eedf3-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "15.",
+            "Skor": "98",
+            "Judul": "The Lady Vanishes",
+            "Rilis": "November 1, 1938 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/3/8a22da4899fba5c8fe3ed7b09cafc517-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "16.",
+            "Skor": "98",
+            "Judul": "The Treasure of the Sierra Madre",
+            "Rilis": "January 24, 1948 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/1/aa1e15b06bed9503511eb13f85ad333d-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "17.",
+            "Skor": "98",
+            "Judul": "Pan's Labyrinth",
+            "Rilis": "December 29, 2006 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/4/8eb6412f31967db627287790e47ce0ff-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "18.",
+            "Skor": "98",
+            "Judul": "Some Like It Hot",
+            "Rilis": "March 29, 1959 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/5/693e7413635830d3e9dce8b7569ce04a-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "19.",
+            "Skor": "98",
+            "Judul": "North by Northwest",
+            "Rilis": "August 6, 1959 | TV-G",
+            "Image": "https://static.metacritic.com/images/products/movies/0/ee29e1899f89829dc0067bd66ea4436e-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "20.",
+            "Skor": "98",
+            "Judul": "Hoop Dreams",
+            "Rilis": "October 14, 1994 | PG-13",
+            "Image": "https://static.metacritic.com/images/products/movies/2/18e6a88baf392f8b0f84213eed85be13-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "21.",
+            "Skor": "98",
+            "Judul": "Rashomon",
+            "Rilis": "December 26, 1951 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/7/a72283857efd64ec73d13e110e0de625-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "22.",
+            "Skor": "98",
+            "Judul": "All About Eve",
+            "Rilis": "October 27, 1950 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/3/6480fd4c7a013454c0af2e5351f7fa97-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "23.",
+            "Skor": "97",
+            "Judul": "Jules and Jim",
+            "Rilis": "April 23, 1962 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/2/3c5bf40cae820d479f5742e606d45b94-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "24.",
+            "Skor": "97",
+            "Judul": "The Wild Bunch",
+            "Rilis": "June 18, 1969 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/4/789494201584d839460c78bc1050c862-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "25.",
+            "Skor": "97",
+            "Judul": "My Left Foot",
+            "Rilis": "November 10, 1989 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/9/e48ade8e818926f8f6597972f29a0ae5-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "26.",
+            "Skor": "97",
+            "Judul": "The Third Man",
+            "Rilis": "September 3, 1949 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/6/d3b79117720d899ad23c4b1dd5d775bd-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "27.",
+            "Skor": "97",
+            "Judul": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "Rilis": "January 29, 1964 | GP",
+            "Image": "https://static.metacritic.com/images/products/movies/5/a5b136464d1e19692af07939f2fb318e-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "28.",
+            "Skor": "97",
+            "Judul": "Quo Vadis, Aida?",
+            "Rilis": "March 5, 2021 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/7/ce052d31ece8e28d24d4d09e62745b2a-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "29.",
+            "Skor": "97",
+            "Judul": "Gone with the Wind",
+            "Rilis": "January 17, 1940 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/1/dbe5b75dc0715eda6c92efd1c5060406-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "30.",
+            "Skor": "97",
+            "Judul": "4 Months, 3 Weeks and 2 Days",
+            "Rilis": "January 23, 2008 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/9/b8472c8742b0065668c2a9dcb5b7e66a-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "31.",
+            "Skor": "97",
+            "Judul": "Psycho",
+            "Rilis": "September 8, 1960 | M",
+            "Image": "https://static.metacritic.com/images/products/movies/0/5d4f62de038a8b8cbabf13936dddda53-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "32.",
+            "Skor": "97",
+            "Judul": "Battleship Potemkin",
+            "Rilis": "December 5, 1926 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/1/7e9bfecfd92a84830fc3784b769c7515-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "33.",
+            "Skor": "97",
+            "Judul": "A Streetcar Named Desire",
+            "Rilis": "September 19, 1951 | M/PG",
+            "Image": "https://static.metacritic.com/images/products/movies/1/f32747f2278d7608a5c8250ee304397b-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "34.",
+            "Skor": "97",
+            "Judul": "The Maltese Falcon",
+            "Rilis": "October 18, 1941 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/9/6c6e30725cb5b244cabe81943d0a1d6f-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "35.",
+            "Skor": "97",
+            "Judul": "American Graffiti",
+            "Rilis": "August 11, 1973 | PG",
+            "Image": "https://static.metacritic.com/images/products/movies/1/a1639ff7f7ba20a70543f8b3b87c8182-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "36.",
+            "Skor": "96",
+            "Judul": "Dumbo",
+            "Rilis": "October 31, 1941 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/3/3d47987bfdeb326a5349e15bee83e750-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "37.",
+            "Skor": "96",
+            "Judul": "Roma",
+            "Rilis": "November 21, 2018 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/9/9b93199016c71cae5adb7e6355fb351a-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "38.",
+            "Skor": "96",
+            "Judul": "Parasite",
+            "Rilis": "October 11, 2019 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/5/b0eb57fd63df90ca7e654c788f5851a8-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "39.",
+            "Skor": "96",
+            "Judul": "Ran",
+            "Rilis": "December 20, 1985 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/4/1b463a817a4d11e880d814759a20ca8e-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "40.",
+            "Skor": "96",
+            "Judul": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+            "Rilis": "July 2, 2021 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/5/d7540b506275ecdeffbc2b8a9a09a82a-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "41.",
+            "Skor": "96",
+            "Judul": "The Shop Around the Corner",
+            "Rilis": "January 12, 1940 | Passed",
+            "Image": "https://static.metacritic.com/images/products/movies/6/a916bf26d153617294f30d0cf68e583c-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "42.",
+            "Skor": "96",
+            "Judul": "12 Angry Men",
+            "Rilis": "April 1, 1957 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/2/10cfbf545224a82d585785f8b479cbe1-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "43.",
+            "Skor": "96",
+            "Judul": "Rosemary's Baby",
+            "Rilis": "June 12, 1968 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/6/befe0fb1c3b6927407a0e5f2199295a0-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "44.",
+            "Skor": "96",
+            "Judul": "12 Years a Slave",
+            "Rilis": "October 18, 2013 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/2/dacb7a618a809b599697dd470b4015be-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "45.",
+            "Skor": "96",
+            "Judul": "Manchester by the Sea",
+            "Rilis": "November 18, 2016 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/0/3faf6055d74f395e0089a36c2d2ee0f9-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "46.",
+            "Skor": "96",
+            "Judul": "Killer of Sheep",
+            "Rilis": "March 30, 2007 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/2/1eab36fe54ed63aff9b43e8b0b8bf15c-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "47.",
+            "Skor": "96",
+            "Judul": "Nashville",
+            "Rilis": "June 11, 1975 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/6/bfc0d6ce01bbacfcf214a781a4fc7b6f-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "48.",
+            "Skor": "96",
+            "Judul": "Ratatouille",
+            "Rilis": "June 29, 2007 | G",
+            "Image": "https://static.metacritic.com/images/products/movies/5/da285e5670a27e634796c2ca8402f5ed-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "49.",
+            "Skor": "96",
+            "Judul": "The Grapes of Wrath",
+            "Rilis": "March 15, 1940 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/4/0fe69ceffacc925f74bc5a1382ce55aa-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "50.",
+            "Skor": "96",
+            "Judul": "Children of Paradise (1945)",
+            "Rilis": "March 9, 2012 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/4/d72c821d47c7499ab44db6e97f98d0fe-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "51.",
+            "Skor": "96",
+            "Judul": "Mean Streets",
+            "Rilis": "October 14, 1973 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/5/549f6ebebdf6c345cfb16cc9bc2448a0-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "52.",
+            "Skor": "96",
+            "Judul": "Sansho the Bailiff",
+            "Rilis": "January 1, 1955 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/0/9be4fbb5513231e284480d4e7b027a00-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "53.",
+            "Skor": "96",
+            "Judul": "The Lady Eve",
+            "Rilis": "March 21, 1941 | Passed",
+            "Image": "https://static.metacritic.com/images/products/movies/0/d4d0d28a23d9695330c3ebcc2fb674a2-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "54.",
+            "Skor": "96",
+            "Judul": "Gravity",
+            "Rilis": "October 4, 2013 | PG-13",
+            "Image": "https://static.metacritic.com/images/products/movies/5/1c2a9fd05698fdfa8f1d7ace302c7b6e-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "55.",
+            "Skor": "96",
+            "Judul": "Fantasia",
+            "Rilis": "November 13, 1940 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/9/6d45378ebea349b6008245fbd5ff0825-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "56.",
+            "Skor": "96",
+            "Judul": "Spirited Away",
+            "Rilis": "September 20, 2002 | PG",
+            "Image": "https://static.metacritic.com/images/products/movies/7/ed0f84cdd6c344f929d5415492438b1a-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "57.",
+            "Skor": "95",
+            "Judul": "Beauty and the Beast",
+            "Rilis": "November 22, 1991 | G",
+            "Image": "https://static.metacritic.com/images/products/movies/5/b6e06ecf6920b8a703b11d5d6ed016f6-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "58.",
+            "Skor": "95",
+            "Judul": "Small Axe: Lovers Rock",
+            "Rilis": "November 27, 2020 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/3/62cf544058e622ab0c3eb4056cadf454-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "59.",
+            "Skor": "95",
+            "Judul": "Toy Story",
+            "Rilis": "November 22, 1995 | TV-G",
+            "Image": "https://static.metacritic.com/images/products/movies/8/0df3116e761c6f0e1b4568bfd25c6859-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "60.",
+            "Skor": "95",
+            "Judul": "The Bride of Frankenstein",
+            "Rilis": "May 6, 1935 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/7/0e04af58341def29c7e6b00fb8fc0560-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "61.",
+            "Skor": "95",
+            "Judul": "Don't Look Now",
+            "Rilis": "December 9, 1973 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/3/eb382c5075198bf6ad5d2e18329fae49-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "62.",
+            "Skor": "95",
+            "Judul": "The Social Network",
+            "Rilis": "October 1, 2010 | PG-13",
+            "Image": "https://static.metacritic.com/images/products/movies/9/aa5515688c769b5ffb92d2b07e671c2a-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "63.",
+            "Skor": "95",
+            "Judul": "My Fair Lady",
+            "Rilis": "December 25, 1964 | G",
+            "Image": "https://static.metacritic.com/images/products/movies/7/419b98d7b4c547facb8eab4a95c18f19-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "64.",
+            "Skor": "95",
+            "Judul": "Portrait of a Lady on Fire",
+            "Rilis": "December 6, 2019 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/6/b9ec74a47303ddde471895397fdac522-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "65.",
+            "Skor": "95",
+            "Judul": "I Am Not Your Negro",
+            "Rilis": "December 9, 2016 | PG-13",
+            "Image": "https://static.metacritic.com/images/products/movies/6/4f754e5f5da9c63346894604e8bf7ab1-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "66.",
+            "Skor": "95",
+            "Judul": "Woodstock",
+            "Rilis": "March 26, 1970 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/2/601cd44b3177a0fa22ecbff0b5e46f57-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "67.",
+            "Skor": "95",
+            "Judul": "Double Indemnity",
+            "Rilis": "July 6, 1944 | Passed",
+            "Image": "https://static.metacritic.com/images/products/movies/7/d8f76d702d47f9daf6757eb75bfbbbfd-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "68.",
+            "Skor": "95",
+            "Judul": "Rocks",
+            "Rilis": "February 1, 2021 | TV-MA",
+            "Image": "https://static.metacritic.com/images/products/movies/8/1d88c6a5ee3f4abc2f4d9960d0a46074-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "69.",
+            "Skor": "95",
+            "Judul": "Snow White and the Seven Dwarfs",
+            "Rilis": "February 4, 1938 | G",
+            "Image": "https://static.metacritic.com/images/products/movies/5/643da4a256c833215eeb70d9e21d44a8-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "70.",
+            "Skor": "95",
+            "Judul": "The Hurt Locker",
+            "Rilis": "June 26, 2009 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/0/c4d2cbc9f18e46e1f43623bc8d2ef510-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "71.",
+            "Skor": "95",
+            "Judul": "Anatomy of a Murder",
+            "Rilis": "July 1, 1959 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/5/fef68d0d4857b7cb86c07744eb7d209f-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "72.",
+            "Skor": "95",
+            "Judul": "Zero Dark Thirty",
+            "Rilis": "December 19, 2012 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/8/a22d5b5f78fbbea4f6f8f19b6dbd00e5-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "73.",
+            "Skor": "95",
+            "Judul": "Collective",
+            "Rilis": "November 20, 2020 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/4/b7d4c9083c9f7f2f52cd076238430158-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "74.",
+            "Skor": "95",
+            "Judul": "A Separation",
+            "Rilis": "December 30, 2011 | PG-13",
+            "Image": "https://static.metacritic.com/images/products/movies/6/65d12895ed2966db458a7a9724e6cc13-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "75.",
+            "Skor": "95",
+            "Judul": "WALL-E",
+            "Rilis": "June 27, 2008 | G",
+            "Image": "https://static.metacritic.com/images/products/movies/0/60843a0153e157509b414ffbf9f3b646-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "76.",
+            "Skor": "94",
+            "Judul": "Carol",
+            "Rilis": "November 20, 2015 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/3/a37a10a2b37af5fd71f23b4b160fe164-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "77.",
+            "Skor": "94",
+            "Judul": "Before Midnight",
+            "Rilis": "May 24, 2013 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/5/21f99368ba464a0337630a5d5855f4fa-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "78.",
+            "Skor": "94",
+            "Judul": "Amour",
+            "Rilis": "December 19, 2012 | PG-13",
+            "Image": "https://static.metacritic.com/images/products/movies/1/59e1400745c00b6f94c333dda75c16eb-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "79.",
+            "Skor": "94",
+            "Judul": "Dunkirk",
+            "Rilis": "July 21, 2017 | PG-13",
+            "Image": "https://static.metacritic.com/images/products/movies/3/9a774585c0cac7bc8047c14c2dcca8ae-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "80.",
+            "Skor": "94",
+            "Judul": "The Man Who Shot Liberty Valance",
+            "Rilis": "April 22, 1962 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/1/a72bcb6a00c638d0441580d298cb2caa-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "81.",
+            "Skor": "94",
+            "Judul": "The Searchers",
+            "Rilis": "May 26, 1956 | Passed",
+            "Image": "https://static.metacritic.com/images/products/movies/7/27666ec92b94fe5b57dc4f56abca6506-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "82.",
+            "Skor": "94",
+            "Judul": "45 Years",
+            "Rilis": "December 23, 2015 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/1/eae2693f79c8191364f38d01421618fc-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "83.",
+            "Skor": "94",
+            "Judul": "Taxi Driver",
+            "Rilis": "February 7, 1976 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/1/06526a61907c3757688d1107a490fe64-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "84.",
+            "Skor": "94",
+            "Judul": "The Servant",
+            "Rilis": "March 16, 1964 | Unrated",
+            "Image": "https://static.metacritic.com/images/products/movies/2/08594c7ecaad52240a86dc1b4e720781-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "85.",
+            "Skor": "94",
+            "Judul": "Pulp Fiction",
+            "Rilis": "October 14, 1994 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/4/0267c3bb3c2a782833e67bab398383e5-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "86.",
+            "Skor": "94",
+            "Judul": "The Manchurian Candidate",
+            "Rilis": "October 24, 1962 | Approved",
+            "Image": "https://static.metacritic.com/images/products/movies/2/a0beacc37c952d6ec007d6bb9d24ba89-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "87.",
+            "Skor": "94",
+            "Judul": "Mr. Turner",
+            "Rilis": "December 19, 2014 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/8/4d19fca1d081c8143c2bf64657fe0a2f-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "88.",
+            "Skor": "94",
+            "Judul": "The Irishman",
+            "Rilis": "November 1, 2019 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/9/c4f0ff0f354fdbfa6411a77d60d0203e-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "89.",
+            "Skor": "94",
+            "Judul": "Amazing Grace",
+            "Rilis": "November 23, 2018",
+            "Image": "https://static.metacritic.com/images/products/movies/8/f4d98c7c9591b5835ab338d96a184ab3-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "90.",
+            "Skor": "94",
+            "Judul": "Grave of the Fireflies (1988)",
+            "Rilis": "July 26, 1989 | TV-14",
+            "Image": "https://static.metacritic.com/images/products/movies/3/00e60609ffe65d0521f921e399686cf6-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "91.",
+            "Skor": "94",
+            "Judul": "The Wild Child",
+            "Rilis": "September 11, 1970 | G",
+            "Image": "https://static.metacritic.com/images/products/movies/4/2e62ca50884e902b1d7e1e7a66d1db2e-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "92.",
+            "Skor": "94",
+            "Judul": "Shadow of a Doubt",
+            "Rilis": "January 15, 1943 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/3/19f77292d0d17a650d04be99d5874849-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "93.",
+            "Skor": "94",
+            "Judul": "Inside Out",
+            "Rilis": "June 19, 2015 | PG",
+            "Image": "https://static.metacritic.com/images/products/movies/6/4ef454cab506fab08119c0efc252a981-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "94.",
+            "Skor": "94",
+            "Judul": "Sideways",
+            "Rilis": "October 22, 2004 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/4/ad93b373d50d432ecb7575e553e998bf-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "95.",
+            "Skor": "94",
+            "Judul": "Schindler's List",
+            "Rilis": "December 15, 1993 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/4/8f9e48d7c87b91706a0b68774721fd7c-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "96.",
+            "Skor": "94",
+            "Judul": "Meet Me in St. Louis",
+            "Rilis": "January 1, 1945 | Passed",
+            "Image": "https://static.metacritic.com/images/products/movies/7/a4b83434b34ee5c82b196ec77792db66-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "97.",
+            "Skor": "94",
+            "Judul": "The Apartment",
+            "Rilis": "June 15, 1960 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/3/14eeef9b4c24fd2b8c3cefb1d37262f3-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "98.",
+            "Skor": "94",
+            "Judul": "Apocalypse Now",
+            "Rilis": "August 15, 1979 | R",
+            "Image": "https://static.metacritic.com/images/products/movies/4/5d4637c187b702dbc61f8dd540125e44-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "99.",
+            "Skor": "94",
+            "Judul": "Petite Maman",
+            "Rilis": "December 3, 2021 | Not Rated",
+            "Image": "https://static.metacritic.com/images/products/movies/8/5a6387be22097d5a87c2edaa63370e41-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      },
+      {
+            "No": "100.",
+            "Skor": "94",
+            "Judul": "The Gunfighter",
+            "Rilis": "June 23, 1950 | TV-PG",
+            "Image": "https://static.metacritic.com/images/products/movies/0/421a11e77dde7fff0233805963ccf703-98.jpg",
+            "waktu_scraping": "2022-03-18 19:00:49"
+      }
+]
